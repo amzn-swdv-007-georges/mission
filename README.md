@@ -1,8 +1,8 @@
-# Week 3 – Team 1 Repository
+# Week 3 – Team 13 Repository
 
 ## Overview
 
-This repository is the `Team 1` workspace for the Week 3 Games. The team will progressively build GitHub Actions workflows, validate content quality, investigate pipeline failures, publish a release, repair broken workflows, and implement automated security scanning.
+This repository is the `Team 13` workspace for the Week 3 Games. The team will progressively build GitHub Actions workflows, validate content quality, investigate pipeline failures, publish a release, repair broken workflows, and implement automated security scanning.
 
 ## Repository Structure
 
