@@ -125,12 +125,14 @@ git push
 
 The first time you run `git push`, Codio may request GitHub credentials.
 
-Use your GitHub credentials.
+Use the credentials provided by your instructor.
 
 ```text
-Username: Your GitHub username
-Password: Your GitHub Personal Access Token (PAT)
+Username: amzn-swdv-007-georges
+Password: <Shared GitHub Personal Access Token>
 ```
+
+Paste the Personal Access Token (PAT) when prompted for the password, then press **Enter**. The token will not be displayed as you type.
 
 ---
 
