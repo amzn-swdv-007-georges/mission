@@ -123,6 +123,14 @@ git push
 
 ## GitHub Authentication
 
+Configure Git to remember your GitHub credentials for **24 hours**.
+
+Run this command **once**:
+
+```bash
+git config --global credential.helper 'cache --timeout=86400'
+```
+
 The first time you run `git push`, Codio may request GitHub credentials.
 
 Use the credentials provided by your instructor.
@@ -133,6 +141,9 @@ Password: <Shared GitHub Personal Access Token>
 ```
 
 Paste the Personal Access Token (PAT) when prompted for the password, then press **Enter**. The token will not be displayed as you type.
+
+Git will remember your credentials for the next **24 hours**, so you should not need to enter them again during this period. If Git prompts again later, simply enter the same username and Personal Access Token.
+
 
 ---
 
