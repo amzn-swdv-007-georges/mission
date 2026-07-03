@@ -1,3 +1,8 @@
 Ok! All set!! All good!
 Thank you
+<<<<<<< HEAD
 lets catch up
+=======
+
+Awesome! work!!
+>>>>>>> b9e2577093d979f2e1f24b4ccceaf3fe81d32f7b
